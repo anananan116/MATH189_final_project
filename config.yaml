@@ -1,0 +1,12 @@
+d_model: 1024
+dropout_rate: 0.0
+
+exp_id: "main"
+steps: 100000
+lr: 0.0005
+warmup_steps: 1000
+weight_decay: 0.005
+batch_size: 512
+eval_batch_size: 512
+patience: 3
+epochs_per_eval: 1
