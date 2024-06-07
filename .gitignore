@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 API_KEY.py
+results/
+logs/
